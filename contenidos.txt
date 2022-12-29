@@ -1,0 +1,16 @@
+-entrada de texto, introducir valor y buscar
+-buscar muchos elementos y extraer de cada uno un valor
+-click en boton como el de las cookies
+-buscar en una tabla elementos y extraer sus valores
+
+
+acceso a elementos:
+-xpath
+-class name
+-id
+-css selector
+
+-introducir texto input
+-click boton
+-sacar texto elementos
+
